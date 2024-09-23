@@ -1,0 +1,600 @@
+<table>
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Marca</th>
+            <th>Quantidade</th>
+            <th>Código de Barras</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mouse Gamer "X Soldado"</td>
+            <td>Infokit</td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse Gamer RGB "Tiger Chroma"</td>
+            <td>Revenge</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Gaming Mouse "Black Hawk"</td>
+            <td>Fortrek</td>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse Gamer "G2"</td>
+            <td>Anxin</td>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse Gamer "MU019"</td>
+            <td>Anubis</td>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse Gamer "MU008"</td>
+            <td>Anubis</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse Gamer "MU003"</td>
+            <td>Anubis</td>
+            <td>8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse "M170"</td>
+            <td>Logitech</td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse "M90"</td>
+            <td>Logitech</td>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse C3 sem fio</td>
+            <td></td>
+            <td>3</td>
+            <td>7898555210776</td>
+        </tr>
+        <tr>
+            <td>Mouse sem fio 5+</td>
+            <td></td>
+            <td>4</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>OLM101</td>
+            <td>Fortrek</td>
+            <td>8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse óptico K-Mex</td>
+            <td></td>
+            <td>3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse com fio Kross</td>
+            <td></td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse C3 Tech MS26</td>
+            <td></td>
+            <td>10</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse USB óptico C3Plus MS 35</td>
+            <td></td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microfone RGB</td>
+            <td></td>
+            <td>4</td>
+            <td>9124736</td>
+        </tr>
+        <tr>
+            <td>Mouse pad pequeno</td>
+            <td></td>
+            <td>10</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse gamer RGB Knup</td>
+            <td></td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mouse pad gamer</td>
+            <td></td>
+            <td>2</td>
+            <td>9124738</td>
+        </tr>
+        <tr>
+            <td>Limpa tela</td>
+            <td></td>
+            <td>5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Caixa de som 2.0 C3 Tech</td>
+            <td>Soeairr</td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Caixa de som GT-S1</td>
+            <td>Lehmox</td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Caixa de som Ley-1862</td>
+            <td>Lehmox</td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Caixa de som 2.0</td>
+            <td>Knup</td>
+            <td>3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Caixa de som C3 Tech</td>
+            <td></td>
+            <td>3</td>
+            <td>7898555211179</td>
+        </tr>
+        <tr>
+            <td>Headset gamer H2</td>
+            <td></td>
+            <td>3</td>
+            <td>7898554605733</td>
+        </tr>
+        <tr>
+            <td>Headset Holt</td>
+            <td></td>
+            <td>1</td>
+            <td>9124805</td>
+        </tr>
+        <tr>
+            <td>Headset gamer</td>
+            <td></td>
+            <td>2</td>
+            <td>6970959647370</td>
+        </tr>
+        <tr>
+            <td>Headset Dex</td>
+            <td></td>
+            <td>2</td>
+            <td>6955581351734</td>
+        </tr>
+        <tr>
+            <td>Headset gamer Kapbom KA903</td>
+            <td></td>
+            <td>1</td>
+            <td>9124740</td>
+        </tr>
+        <tr>
+            <td>Headset paralelos</td>
+            <td></td>
+            <td>2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Headset HSL102</td>
+            <td></td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Headset HB-L101</td>
+            <td></td>
+            <td>4</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Suporte G4</td>
+            <td></td>
+            <td>2</td>
+            <td>9126080</td>
+        </tr>
+        <tr>
+            <td>Suporte ergonômico preto</td>
+            <td></td>
+            <td>1</td>
+            <td>HRLM37895</td>
+        </tr>
+        <tr>
+            <td>Suporte notebook metal</td>
+            <td></td>
+            <td>1</td>
+            <td>9125088</td>
+        </tr>
+        <tr>
+            <td>Suporte CPU preto</td>
+            <td></td>
+            <td>1</td>
+            <td>7898953372014 ou 9124601</td>
+        </tr>
+        <tr>
+            <td>Suporte monitor</td>
+            <td></td>
+            <td>1</td>
+            <td>46109385</td>
+        </tr>
+        <tr>
+            <td>Suporte notebook</td>
+            <td></td>
+            <td>2</td>
+            <td>789895372052</td>
+        </tr>
+        <tr>
+            <td>Base refrigerada para notebook</td>
+            <td></td>
+            <td>1</td>
+            <td>79855267356</td>
+        </tr>
+        <tr>
+            <td>Base refrigerada notebook</td>
+            <td></td>
+            <td>1</td>
+            <td>9124493</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI 1.8m</td>
+            <td></td>
+            <td>3</td>
+            <td>7898554607027</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI 3m</td>
+            <td></td>
+            <td>5</td>
+            <td>7898554606877</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI 5m</td>
+            <td></td>
+            <td>4</td>
+            <td>9124485</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI 10m</td>
+            <td></td>
+            <td>3</td>
+            <td>9125100</td>
+        </tr>
+        <tr>
+            <td>Adaptador HDMI para VGA com áudio</td>
+            <td></td>
+            <td>4</td>
+            <td>7898594</td>
+        </tr>
+        <tr>
+            <td>USB LAN Giga</td>
+            <td></td>
+            <td>4</td>
+            <td>SCPP62721</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI x Micro HDMI</td>
+            <td></td>
+            <td>2</td>
+            <td>912423</td>
+        </tr>
+        <tr>
+            <td>Microfone de lapela</td>
+            <td></td>
+            <td>2</td>
+            <td>9123563</td>
+        </tr>
+        <tr>
+            <td>Cabo DP x VGA</td>
+            <td></td>
+            <td>1</td>
+            <td>7893595</td>
+        </tr>
+        <tr>
+            <td>Cabo DP x HDMI</td>
+            <td></td>
+            <td>5</td>
+            <td>XGNM42633</td>
+        </tr>
+        <tr>
+            <td>Cabo DP x HDMI F3</td>
+            <td></td>
+            <td>2</td>
+            <td>6972147</td>
+        </tr>
+        <tr>
+            <td>Cabo HDMI x VGA com áudio Exbom</td>
+            <td></td>
+            <td>3</td>
+            <td>7899718704507</td>
+        </tr>
+        <tr>
+            <td>2 Serial Feasso JPP-2</td>
+            <td></td>
+            <td>4</td>
+            <td>6972547360425</td>
+        </tr>
+        <tr>
+            <td>Conversor DisplayPort para DVI</td>
+            <td></td>
+            <td>3</td>
+            <td>887890088075</td>
+        </tr>
+        <tr>
+            <td>Cabo P2 x P</td>
+            <td></td>
+            <td>3</td>
+            <td>39124923</td>
+        </tr>
+        <tr>
+            <td>Teclado numérico USB Knup</td>
+            <td></td>
+            <td>4</td>
+            <td>7898652412042</td>
+        </tr>
+        <tr>
+            <td>Mini DisplayPort adaptador para HDMI</td>
+            <td></td>
+            <td>3</td>
+            <td>7898652418822</td>
+        </tr>
+        <tr>
+            <td>Mini DisplayPort para DisplayPort</td>
+            <td></td>
+            <td>1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Conversor de DVI A para VGA</td>
+            <td></td>
+            <td>3</td>
+            <td>000049</td>
+        </tr>
+        <tr>
+            <td>Adaptador conversor DVI para VGA FY</td>
+            <td></td>
+            <td>2</td>
+            <td>9124522</td>
+        </tr>
+        <tr>
+            <td>Cabo USB macho + USB macho 2m</td>
+            <td></td>
+            <td>1</td>
+            <td>7898605600557</td>
+        </tr>
+        <tr>
+            <td>Cabo USB DEX 2m</td>
+            <td></td>
+            <td>2</td>
+            <td>9124661</td>
+        </tr>
+        <tr>
+            <td>Cabo USB 1.5m</td>
+            <td></td>
+            <td>2</td>
+            <td>9124506</td>
+        </tr>
+        <tr>
+            <td>Cabo TVI DisplayPort</td>
+            <td></td>
+            <td>2</td>
+            <td>7898843510410</td>
+        </tr>
+        <tr>
+            <td>Mini adaptador Bluetooth 5.0</td>
+            <td></td>
+            <td>4</td>
+            <td>LOSR52684</td>
+        </tr>
+        <tr>
+            <td>Conversor VGA para HDMI 1080p HDCP</td>
+            <td></td>
+            <td>1</td>
+            <td>7899718704989</td>
+        </tr>
+        <tr>
+            <td>Conversor VGA para HDMI Kapbom</td>
+            <td></td>
+            <td>4</td>
+            <td>9125099</td>
+        </tr>
+        <tr>
+            <td>Case Exbom CGHD-10</td>
+            <td></td>
+            <td>6</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Adaptador tipo B para rede RJ45</td>
+            <td></td>
+            <td>3</td>
+            <td>9124800</td>
+        </tr>
+        <tr>
+            <td>Mini DP para HDMI, VGA e DVI</td>
+            <td></td>
+            <td>1</td>
+            <td>9124766</td>
+        </tr>
+        <tr>
+            <td>Cabo DP x HDMI 4K 1.8m</td>
+            <td></td>
+            <td>3</td>
+            <td>9124948</td>
+        </tr>
+        <tr>
+            <td>Cabo impressora paralela 36 vias</td>
+            <td></td>
+            <td>1</td>
+            <td>7895268952160</td>
+        </tr>
+        <tr>
+            <td>Cabo DVI para DVI - Lotus</td>
+            <td></td>
+            <td>2</td>
+            <td>7898928693120</td>
+        </tr>
+        <tr>
+            <td>Cabo óptico 2m Ley1533</td>
+            <td></td>
+            <td>3</td>
+            <td>9124564</td>
+        </tr>
+        <tr>
+            <td>Cabo HD externo Lehmox 1.50</td>
+            <td></td>
+            <td>6</td>
+            <td>9124972</td>
+        </tr>
+        <tr>
+            <td>Cabo de rede RJ45 1.5m</td>
+            <td></td>
+            <td>1</td>
+            <td>789855219120</td>
+        </tr>
+        <tr>
+            <td>Cabo de rede CAT 5e 2m</td>
+            <td></td>
+            <td>3</td>
+            <td>91250</td>
+        </tr>
+        <tr>
+            <td>Cabo de rede CAT 5e 3m</td>
+            <td></td>
+            <td>5</td>
+            <td>9124917</td>
+        </tr>
+        <tr>
+            <td>Cabo VGA Storm 2m</td>
+            <td></td>
+            <td>10</td>
+            <td>7898566204900</td>
+        </tr>
+        <tr>
+            <td>Extensor USB Fortrek 1.8m</td>
+            <td></td>
+            <td>9</td>
+            <td>7898554601643</td>
+        </tr>
+        <tr>
+            <td>Case HD externo 2.5" Lehmox</td>
+            <td></td>
+            <td>2</td>
+            <td>7457600071128</td>
+        </tr>
+        <tr>
+            <td>Adaptador Caddy para HD 2.5"</td>
+            <td></td>
+            <td>3</td>
+            <td>7898652417887</td>
+        </tr>
+        <tr>
+            <td>Cabo estéreo 3,5mm</td>
+            <td></td>
+            <td>4</td>
+            <td>745760071074</td>
+        </tr>
+        <tr>
+            <td>Placa de som USB</td>
+            <td></td>
+            <td>2</td>
+            <td>7823105600363</td>
+        </tr>
+        <tr>
+            <td>Placa de som USB Knup</td>
+            <td></td>
+            <td>3</td>
+            <td>9125008</td>
+        </tr>
+        <tr>
+            <td>Extensor USB 2.0 Hub</td>
+            <td></td>
+            <td>5</td>
+            <td>745760071258</td>
+        </tr>
+        <tr>
+            <td>Extensor USB 3.0 Hub</td>
+            <td></td>
+            <td>3</td>
+            <td>9124963</td>
+        </tr>
+        <tr>
+            <td>Conversor USB para Serial</td>
+            <td></td>
+            <td>1</td>
+            <td>9125002</td>
+        </tr>
+        <tr>
+            <td>Adaptador USB para P2</td>
+            <td></td>
+            <td>1</td>
+            <td>9124638</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido C3 Tech</td>
+            <td></td>
+            <td>3</td>
+            <td>9124962</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido modelo Juno</td>
+            <td></td>
+            <td>1</td>
+            <td>9124673</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido com fio H70</td>
+            <td></td>
+            <td>2</td>
+            <td>7898942320134</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido com fio H90</td>
+            <td></td>
+            <td>4</td>
+            <td>9124598</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido com fio Ley</td>
+            <td></td>
+            <td>2</td>
+            <td>7898250821926</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido com fio Leonel</td>
+            <td></td>
+            <td>3</td>
+            <td>745760072632</td>
+        </tr>
+        <tr>
+            <td>Fone de ouvido com fio</td>
+            <td></td>
+            <td>5</td>
+            <td>9124723</td>
+        </tr>
+    </tbody>
+</table>
